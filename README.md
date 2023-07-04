@@ -1,10 +1,10 @@
-Hi there 👋 My name is Sergey
+Hi there. My name is Sergey
 =======================
 
 * I'm 37 years old java developer from Moscow, Russia   
 * Interested in receiving offer as a junior java developer.   
 * Now finishing my studying program at Hexlet school. Here is [my profile on Hexlet](https://ru.hexlet.io/u/sergey\_reshetov)  
-* If you want to contact me, please follow [telegram](https://t.me/Sergey_Reshetov) or [email](reshetov.sn@gmail.com)  
+* If you want to contact me, please follow [telegram](https://t.me/Sergey_Reshetov) or [email](mailto:reshetov.sn@gmail.com)  
 
 ### Skills
 
