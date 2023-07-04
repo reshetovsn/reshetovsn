@@ -1,6 +1,10 @@
 Hi there. My name is Sergey
 =======================
-
+<!--
+<p align='center'>
+  <a href="https://t.me/Sergey_Reshetov"><img height="30" src="https://user-images.githubusercontent.com/113507393/222895028-ee7ffc90-e395-4079-9cdc-02309c0b4260.png"></a>&nbsp;&nbsp;
+</p>
+-->
 * I'm 37 years old java developer from Moscow, Russia   
 * Interested in receiving offer as a junior java developer.   
 * Now finishing my studying program at Hexlet school. Here is [my profile on Hexlet](https://ru.hexlet.io/u/sergey\_reshetov)  
