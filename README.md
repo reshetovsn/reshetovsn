@@ -79,7 +79,7 @@
 В отдельном репозитории собраны примеры аналитических артефактов:
 диаграммы, требования, API-спецификации, модели данных и проектные кейсы.
 
-[Открыть портфолио системного аналитика](https://github.com/reshetovsn/system-analyst-portfolio)
+[Открыть портфолио](https://github.com/reshetovsn/system-analyst-portfolio)
 
 ### GitHub
 
