@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://t.me/Sergey_Reshetov">Telegram</a> ·
   <a href="mailto:reshetov.sn@gmail.com">Email</a> ·
-  <a href="https://github.com/reshetovsn/system-analyst-portfolio">System Analyst Portfolio</a>
 </p>
 
 ---
