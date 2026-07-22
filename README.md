@@ -80,9 +80,3 @@
 диаграммы, требования, API-спецификации, модели данных и проектные кейсы.
 
 [Открыть портфолио](https://github.com/reshetovsn/system-analyst-portfolio)
-
-### GitHub
-
-<p>
-  <img width="430" src="https://github-readme-stats.vercel.app/api?username=reshetovsn&show_icons=true&hide_border=false&line_height=20&title_color=111827&icon_color=374151&show_owner=true" alt="GitHub stats" />
-</p>
