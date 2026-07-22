@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://t.me/Sergey_Reshetov">Telegram</a> ·
-  <a href="mailto:reshetov.sn@gmail.com">Email</a> ·
+  <a href="mailto:reshetov.sn@gmail.com">Email</a>
 </p>
 
 ---
